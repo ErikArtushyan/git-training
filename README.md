@@ -19,4 +19,4 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ErikArtushyan/GitTrain.git
+git clone https://github.com/ErikArtushyan/git-training.git
